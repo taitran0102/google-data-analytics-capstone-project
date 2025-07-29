@@ -51,7 +51,7 @@ $$
 \boxed{\text{Ask}} \longrightarrow\boxed{\text{Prepare}} \longrightarrow\boxed{\text{Process}} \longrightarrow\boxed{\text{Analyze}} \longrightarrow\boxed{\text{Share}} \longrightarrow\boxed{\text{Act}}
 $$
 
-👉 Refer to [this notebook](#cyclistic-member-vs-casual-analysis.ipynb) for the all process breakdonws.
+👉 Refer to [this notebook](#google-data-analytics-capstone-project/cyclistic_member_vs_casual_analysis.ipynb) for the all process breakdonws.
 ## $\boxed{3}$ Report
 To communicate what has been done to Lily Moreno (Marketing Director), the Cyclistic marketing analytics team, and other stakeholders, I have prepared the following report outlining the key points in addressing the assigned question.
 
