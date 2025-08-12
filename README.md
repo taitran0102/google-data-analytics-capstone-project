@@ -2,7 +2,7 @@ $$\Large \boxed{\textbf{Case Study: How does a bike-share navigate speedy succes
 
 ## $\boxed{1}$ Introduction
 
-As part of the `Google Data Analytics Capstone`, I completed a case study for the <u>**fictional company**</u> `Cyclistic`. I applied the full data analysis process including `Ask, Prepare, Process, Analyze, Share, and Act` to find insights and recommend ways to increase annual memberships. This project highlights my skills in data cleaning, analysis, and visualization using `Excel, SQL, and R`. 
+As part of the `Google Data Analytics Capstone`, I completed a case study for the <u>**fictional company**</u> `Cyclistic`. I applied the full data analysis process including `Ask, Prepare, Process, Analyze, Share, and Act` to find insights and recommend ways to increase annual memberships. This project highlights my skills in data cleaning, analysis, and visualization using `Excel` and `Python`. 
 
 ### $\boxed{1.1}$ Scenario
 
