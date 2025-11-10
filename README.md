@@ -1,6 +1,4 @@
-$$\Large \boxed{\textbf{Case Study: How does a bike-share navigate speedy success?}}$$
-
-## $\boxed{1}$ Introduction
+# Case Study: How does a bike-share navigate speedy success?
 
 As part of the `Google Data Analytics Capstone`, I completed a case study for the <u>**fictional company**</u> `Cyclistic`. I applied the full data analysis process including `Ask, Prepare, Process, Analyze, Share, and Act` to find insights and recommend ways to increase annual memberships. This project highlights my skills in data cleaning, analysis, and visualization using `Power Query` and `Power BI`. 
 
